@@ -13,7 +13,13 @@ Entering college, I planned on majoring in some type of Engineering. However, af
 <h1><a href="https://github.com/shkulesa/Craps" target="_blank">Craps Game</a></h1>
 <img width="420" alt="craps project" src="https://user-images.githubusercontent.com/115058774/208550642-2c406d79-0fa7-41ce-b881-32ade4e915a1.png">
 
-The second project is a project that I woorked on with two group mates for my web development class. It is a web server that displays information about Annual energy usage in the United States. It displays information from a database containing data pertaining to Annual Energy usage in the United States. This project relates to sustainability, as it documents energy usage.
+The second project is a project that I worked on with two teammates for my web development class. It is a web server that displays information about Annual energy usage in the United States. It displays information from a database containing data pertaining to Annual Energy usage in the United States. This project relates to sustainability, as it documents energy usage.
 
 <h1><a href="https://github.com/shkulesa/EnergyConsumption" target="_blank">Annual Energy Consumption server</a></h1>
 <img width="420" alt="Energy Consumption Server" src="https://user-images.githubusercontent.com/115058774/208560213-ee566347-d045-46b2-a95f-5908d600c461.png">
+
+The thrid project is the largest. I worked on this project with two other teammates. It is a combination of a RESTful API and a single page application. The RESTful API was written using node.js. The single page application was written using the Vue.js framework. The RESTful API queries a database containing logs of crimes committed in Saint Paul over the fast few years. This project used a number of frameworks and tools including: node.js, Foundation (css), Leaflet, Nominatim, and Vue.js.
+
+<h1><a href="https://github.com/shkulesa/EnergyConsumption" target="_blank">St. Paul Crime App</a></h1>
+<img width="420" alt="Screen Shot 2022-12-19 at 9 51 39 PM" src="https://user-images.githubusercontent.com/115058774/208579718-200ac817-425c-45eb-8600-11ee3d92a0a7.png">
+
