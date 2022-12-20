@@ -13,5 +13,5 @@ Entering college, I planned on majoring in some type of Engineering. However, af
 <h1><a href="https://github.com/shkulesa/Craps" target="_blank">Craps Game</a></h1>
 <img width="420" alt="craps project" src="https://user-images.githubusercontent.com/115058774/208550642-2c406d79-0fa7-41ce-b881-32ade4e915a1.png">
 
-<h1><a href="https://github.com/shkulesa/EnergyConsumption" target="_blank">Project 2</a></h1>
+<h1><a href="https://github.com/shkulesa/EnergyConsumption" target="_blank">Annual Energy Consumption server</a></h1>
 <img width="420" alt="Energy Consumption Server" src="https://user-images.githubusercontent.com/115058774/208560213-ee566347-d045-46b2-a95f-5908d600c461.png">
